@@ -1,0 +1,9 @@
+pyaudio
+torch
+torchaudio
+numpy
+pandas
+pydub
+uuid
+tqdm
+torchsummary
